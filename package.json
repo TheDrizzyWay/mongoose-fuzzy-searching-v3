@@ -1,9 +1,6 @@
 {
-  "name": "mongoose-fuzzy-searching-v3",
+  "name": "@thedrizzyway/mongoose-fuzzy-searching-v3",
   "version": "2.1.0",
-  "contributors": [
-    "Christopher Iliyas"
-  ],
   "description": "Mongoose fuzzy searching plugin",
   "main": "index.js",
   "scripts": {
@@ -49,5 +46,14 @@
     "mongodb-memory-server": "^6.6.0",
     "mongoose": "^6.1.10",
     "prettier": "^2.0.5"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDrizzyWay/mongoose-fuzzy-searching-v3.git"
+  },
+  "author": "Christopher Iliyas",
+  "bugs": {
+    "url": "https://github.com/TheDrizzyWay/mongoose-fuzzy-searching-v3/issues"
   }
 }
